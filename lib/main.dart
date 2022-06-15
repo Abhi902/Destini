@@ -27,7 +27,7 @@ class _MyAppState extends State<MyApp> {
               style: TextStyle(
                   color: Colors.white70,
                   fontWeight: FontWeight.bold,
-                  fontSize: 35),
+                  fontSize: 25),
             ),
           ),
         ),
